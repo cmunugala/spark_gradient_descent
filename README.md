@@ -1,6 +1,6 @@
 # spark_gradient_descent
 
-The goal of this project was to implement gradient descent for ols regression, with and without regularization, in a distributed fashion with PySpark. This data was made available through the UC Irvine public repository of Machine Learning datasets by researchers at the University of Minho in association with this paper:
+The goal of this project was to implement gradient descent for ols regression, with and without regularization, in a distributed fashion with PySpark WITHOUT ML LIB. By doing this, I hope to understand the details of gradient descent and regularization. The data used in this project was made available through the UC Irvine public repository of Machine Learning datasets by researchers at the University of Minho in association with this paper:
 
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
