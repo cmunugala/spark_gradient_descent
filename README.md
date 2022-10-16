@@ -9,3 +9,10 @@ This dataset contains data on various features of portugese wines, as well as a 
 This project file was adapted from a homework that I completed in my masters program for my 'Machine Learning at Scale' class, where I am currently learning PySpark.
 
 This project is provided as a pdf, as well as a jupyter notebook. 
+
+Skills highlighted in this project:
+
+- PySpark
+- Machine Learning
+- Feature Engineering
+- Data Visualization
