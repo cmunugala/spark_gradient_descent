@@ -7,3 +7,5 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 This dataset contains data on various features of portugese wines, as well as a numeric outcome variable - quality. The machine learning task is to predict quality from features that describe the wine such as color, acidity, and alcohol content. Through this project, I learned about the benefits of regularization and how ridge and lasso regression differ, while also practicing my skills coding in PySpark.
 
 This project file was adapted from a homework that I completed in my masters program for my 'Machine Learning at Scale' class, where I am currently learning PySpark.
+
+This project is provided as a pdf, as well as a jupyter notebook. 
